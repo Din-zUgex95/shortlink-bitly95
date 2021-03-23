@@ -4,7 +4,7 @@ dengan API python bitly
 
 ### Installation
 ```bash
-  apt-get install python
+  apt-get install python3
   apt-get install git
   apt-get install bitly-api-py3
 ```
