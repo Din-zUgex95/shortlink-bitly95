@@ -6,7 +6,7 @@ dengan API python bitly
 ```bash
   apt-get install python3
   apt-get install git
-  apt-get install bitly-api-py3
+  pip3 install bitly-api-py3
 ```
 ### Clone
 ```bash
