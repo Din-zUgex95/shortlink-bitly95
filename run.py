@@ -1,5 +1,14 @@
 
+'''
 
+    ~ Coded By Ugex95.
+    -------
+    Github     :  Din-zUgex95
+    Instagram  :  @ugex95
+    Youtube    :  Din-zUgex95
+
+
+'''
 import os,sys,time
 # Warna
 un,bl,a,h,m,p,bn,o = [
